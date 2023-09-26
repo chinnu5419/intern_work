@@ -22,9 +22,10 @@ This is Home Page where you select the below three options:-
 ![Screenshot 2023-09-26 080025](https://github.com/chinnu5419/intern_work/assets/110918396/f269ae0e-960e-42ae-9d9c-df243883e5c0)
 
 This is the Upload File Page.
+
 ![Screenshot 2023-09-26 080102](https://github.com/chinnu5419/intern_work/assets/110918396/611e317c-ac33-4902-adf2-862ad409d7c4)
 
 
 This is the page where you can see the files you have uploaded. 
 
-![Screenshot 2023-09-26 080132](https://github.com/chinnu5419/intern_work/assets/110918396/adb8b809-4590-4e81-a912-6aa998856ee0)
+![Screenshot 2023-09-26 080132](https://github.com/chinnu5419/intern_work/assets/110918396/6efab3c8-a993-4d5b-b50a-2037ed805d54)
